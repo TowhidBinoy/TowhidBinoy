@@ -12,18 +12,18 @@ I engineer **high-converting, fast, and SEO-optimized WordPress engines** for co
 
 With **7+ years of hands-on technical execution**, I don't just build clean websites I build digital systems designed to capture leads, rank on Google, and drive bottom-line revenue.
 
-* 💼 **Currently:** Partnering with international clients on custom WordPress logic & AI workflows.
-* ⚡ **Core Focus:** Lead Funnels, WooCommerce Scaling, Site Speed (Under 1.5s), and On-Page SEO.
-* 🌐 **Global Reach:** Delivered 500+ high-impact web projects for global brands.
+* **Currently:** Partnering with international clients on custom WordPress logic & AI workflows.
+* **Core Focus:** Lead Funnels, WooCommerce Scaling, Site Speed (Under 1.5s), and On-Page SEO.
+* **Global Reach:** Delivered 500+ high-impact web projects for global brands.
 
 ---
 
 ## Tech Stack & Expertise
-CMS & Builders  : WordPress, Elementor Pro, WooCommerce, Custom Dashboards
+CMS & Builders : WordPress, Elementor Pro, WooCommerce, Custom Dashboards
 Frontend & Logic  : HTML5, CSS3, JavaScript (ES6+), PHP, MySQL, Tailwind CSS, Bootstrap
 SEO & Performance Tuning: Core Web Vitals, On-Page SEO, Caching, Database Cleanup, Schema
-Design Tools    : Figma, Adobe XD, Photoshop, Illustrator
-Workflows        : AI-Augmented Development & Automated QA Workflows
+Design Tools   : Figma, Adobe XD, Photoshop, Illustrator
+Workflows       : AI-Augmented Development & Automated QA Workflows
 
 
 ## Featured Capabilities
@@ -37,14 +37,14 @@ Workflows        : AI-Augmented Development & Automated QA Workflows
 ## GitHub & Growth Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TowhidBinoy&show_icons=true&theme=tokyonight&count_private=true" alt="Towhid's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TowhidBinoy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=TowhidBinoy&show_icons=true&theme=tokyonight" alt="Towhid's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=TowhidBinoy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## Let's Connect & Scale Your Business
 
-- 🌐 **Portfolio Website:** [towhid.online] (https://towhid.devmatez.com/)
-- 💼 **LinkedIn Profile:** [linkedin.com/in/towhidbinoy](https://linkedin.com/in/towhidbinoy)
-- ✉️ **Direct Email:** [towhidbinoy@gmail.com](mailto:towhidbinoy@gmail.com)
+- **Portfolio Website:** [towhid.online] (https://towhid.devmatez.com/)
+- **LinkedIn Profile:** [linkedin.com/in/towhidbinoy](https://linkedin.com/in/towhidbinoy)
+- **Direct Email:** [towhidbinoy@gmail.com](mailto:towhidbinoy@gmail.com)
