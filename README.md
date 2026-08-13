@@ -1,48 +1,61 @@
-# Hi there, I'm Md Towhidur Rahman
-### Senior WordPress Developer & Digital Growth Specialist | 7+ Years Exp.
+# Hi there, I'm Md Towhidur Rahman 👋
 
-[Portfolio Website](https://towhid.devmatez.com/) | [LinkedIn Profile](https://linkedin.com/in/towhidbinoy) | [Direct Email](mailto:towhidbinoy@gmail.com)
-
----
-
-## About Me
-
-I engineer high-converting, fast, and SEO-optimized WordPress platforms for corporate firms, real estate brokers, and eCommerce brands across Bangladesh, North America, Malaysia, and Europe.
-
-With 7+ years of hands-on technical execution, I don't just build clean websites—I build digital systems designed to capture leads, rank on Google, and drive bottom-line revenue.
-
-- Currently: Partnering with international clients on custom WordPress logic and AI workflows.
-- Core Focus: Lead Funnels, WooCommerce Scaling, Site Speed (Under 1.5s), and On-Page SEO.
-- Global Reach: Delivered 100+ high-impact web projects for global brands.
+<p align="left">
+  <a href="https://towhid.devmatez.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=212121&color=0073AA" /></a>
+  <a href="https://linkedin.com/in/towhidbinoy"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/8801868502453"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:towhidbinoy@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## Tech Stack & Expertise
+## Senior WordPress Developer & Digital Growth Specialist | 7+ Years Exp.
 
-### CMS & Page Builders
-WordPress, Elementor Pro, WooCommerce, Custom Dashboards
+I engineer high-converting, fast, and SEO-optimized WordPress platforms for corporate firms, real estate brokers, and eCommerce brands globally. 
 
-### Frontend & Logic
-HTML5, CSS3, JavaScript (ES6+), PHP, MySQL, Tailwind CSS, Bootstrap
+With 7+ years of hands-on technical execution, I don't just build clean websites I build digital growth engines designed to capture leads, rank on Google, and drive revenue.
 
-### SEO & Performance
-Core Web Vitals, On-Page SEO, Caching, Database Cleanup, Schema
-
-### Design & Workflows
-Figma, Adobe XD, Photoshop, Illustrator, AI-Augmented Development
+-  **Currently:** Partnering with international clients on custom WordPress logic & AI workflows.
+-  **Core Focus:** Lead Funnels, High-Converting UI/UX, Speed (Under 1.5s), & Technical SEO.
+-  **Global Impact:** Delivered **500+** high-impact web projects worldwide.
 
 ---
 
-## Featured Capabilities
+##  Specialized Services & Solutions
 
-- Conversion-Centric Engineering: Building mobile-first layouts tailored to buyer psychology and lead capture.
-- Custom Logic & API Integration: Complex property listing logic, payment gateways, and custom form routing.
-- Core Web Vitals Optimization: Speed tuning slow sites to achieve 90+ PageSpeed insights scores.
+*  **Conversion Web Design & Redesign:** Building & transforming sites into high-converting lead funnels.
+*  **Responsive Mobile UX:** Pixel-perfect, frictionless digital experiences across all devices.
+*  **Custom WordPress Development:** Tailored theme architecture, custom logic, & API integrations.
+*  **eCommerce & Revenue Scaling:** High-converting WooCommerce store setups & checkout UX optimization.
+*  **Speed & Core Web Vitals:** Advanced caching, DB cleanup, & code optimization for 90+ PageSpeed.
+*  **On-Page & Technical SEO:** Strategic meta architecture, schema markup, & search ranking fixes.
+*  **AI-Powered Workflow Integration:** Automating content, QA testing, & engagement flows using AI.
+*  **Maintenance & Issue Resolution:** Fast troubleshooting, security hardening, & zero downtime updates.
 
 ---
 
-## Let's Connect & Scale Your Business
+##  Tech Stack & Tools
 
-- Portfolio Website: [https://towhid.devmatez.com/](https://towhid.devmatez.com/)
-- LinkedIn Profile: [https://linkedin.com/in/towhidbinoy](https://linkedin.com/in/towhidbinoy)
-- Direct Email: [towhidbinoy@gmail.com](mailto:towhidbinoy@gmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+##  Let's Connect & Scale Your Business
+
+<p align="left">
+  <a href="https://towhid.devmatez.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=212121&color=0073AA" /></a>
+  <a href="https://wa.me/8801868502453"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/towhidbinoy"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:towhidbinoy@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
