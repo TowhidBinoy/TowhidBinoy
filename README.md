@@ -34,11 +34,11 @@ Workflows       : AI-Augmented Development & Automated QA Workflows
 
 ---
 
-## GitHub & Growth Stats
+## 📊 GitHub & Growth Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=TowhidBinoy&show_icons=true&theme=tokyonight" alt="Towhid's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=TowhidBinoy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TowhidBinoy&show_icons=true&theme=tokyonight&count_private=true" alt="Towhid's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TowhidBinoy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
