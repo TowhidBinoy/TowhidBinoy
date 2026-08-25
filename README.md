@@ -1,7 +1,7 @@
 # Hi there, I'm Md Towhidur Rahman 👋
 
 <p align="left">
-  <a href="https://towhid.devmatez.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=212121&color=0073AA" /></a>
+  <a href="https://towhidbinoy.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=212121&color=0073AA" /></a>
   <a href="https://linkedin.com/in/towhidbinoy"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/8801868502453"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:towhidbinoy@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -54,7 +54,7 @@ With 7+ years of hands-on technical execution, I don't just build clean websites
 ##  Let's Connect & Scale Your Business
 
 <p align="left">
-  <a href="https://towhid.devmatez.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=212121&color=0073AA" /></a>
+  <a href="https://towhidbinoy.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=212121&color=0073AA" /></a>
   <a href="https://wa.me/8801868502453"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://linkedin.com/in/towhidbinoy"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:towhidbinoy@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
